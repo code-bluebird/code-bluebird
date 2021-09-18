@@ -1,6 +1,6 @@
 ### Hi there 👋, **I'm code-bluebird**
 #### I'm a 23 years old developer from India. Making stuff that some folks like it seams. I also own [theindiegamer.studio](https://theindiegamer.studio) and [arkeria.com](https://www.arkeria.com/) so that's cool.
-![I'm a 23 years old developer from India. Making stuff that some folks like it seams. I also own [theindiegamer.studio](https://theindiegamer.studio) and [arkeria.com](https://www.arkeria.com/) so that's cool.](https://www.arkeria.com/assets/img/qqqq.jpg)
+![I'm a 23 years old developer from India. Making stuff that some folks like it seams. I also own [theindiegamer.studio](https://theindiegamer.studio) and [arkeria.com](https://www.arkeria.com/) so that's cool.](https://github.com/code-bluebird/arkeriagames.io/blob/main/assets/img/Copy%20of%20Interested%20in%20solving%20real-world%20problems%20using%20technologies%20present%20out%20there%20and%20learning%20new%20things%20around%20along%20the%20way..jpg)
 
 **Stuff I have used -**
 - Industry Knowledge
